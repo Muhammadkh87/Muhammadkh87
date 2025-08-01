@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Khan</h1>
-<h3 align="center">Tech Support Engineer with a passion for technology and a strong desire to transition into a DevOps role</h3>
+<h1 align="side">Hi 👋, I'm Muhammad Khan</h1>
+<h3 align="side">Tech Support Engineer with a passion for technology and a strong desire to transition into a DevOps role</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
